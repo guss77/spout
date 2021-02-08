@@ -1,17 +1,22 @@
 # Spout
 
-[![Latest Stable Version](https://poser.pugx.org/box/spout/v/stable)](https://packagist.org/packages/box/spout)
+[![Latest Stable Version](https://poser.pugx.org/guss77/spout-fork/v/stable)](https://packagist.org/packages/guss77/spout-fork)
 [![Project Status](https://opensource.box.com/badges/active.svg)](https://opensource.box.com/badges)
-[![Build Status](https://travis-ci.org/box/spout.svg?branch=master)](https://travis-ci.org/box/spout)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/box/spout/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/box/spout/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/box/spout/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/box/spout/?branch=master)
-[![Total Downloads](https://poser.pugx.org/box/spout/downloads)](https://packagist.org/packages/box/spout)
+[![Build Status](https://travis-ci.com/guss77/spout.svg?branch=master)](https://travis-ci.com/guss77/spout)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/guss77/spout/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/guss77/spout/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/guss77/spout/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/guss77/spout/?branch=master)
+[![Total Downloads](https://poser.pugx.org/guss77/spout/downloads)](https://packagist.org/packages/guss77/spout)
 
 Spout is a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 Contrary to other file readers or writers, it is capable of processing very large files while keeping the memory usage really low (less than 3MB).
 
-Join the community and come discuss about Spout: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/box/spout?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+This repository is a fork of the [original Spout library](https://github.com/box/spout). The fork was created as there are several PRs that I need to
+land but the upstream seems to be dormant with no commits or releases during 2020 and no activity on open PRs. If you have an upstream PR you want me
+to integrate, please open an issue and I would love to take a look at it.
 
+You can also try to join the upstream community: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/box/spout?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+The following is the original documentation.
 
 ## Documentation
 
